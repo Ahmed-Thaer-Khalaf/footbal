@@ -7,7 +7,7 @@ angular.module('wvn', []).controller('titles', function($scope) {
    
 
       
-         id:'1'
+         id:'7'
 
         ,day:'الأحد'
 
